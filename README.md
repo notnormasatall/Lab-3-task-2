@@ -1,5 +1,8 @@
-# Lab-3-task-2
-'''
-The following module helps the user to go through all the sections of a .json file. One can go one by one file just choosing
-the best option or just type "all" to receive all the data.
-'''
+## Призначення модулю
+
+Модуль призначений для організації навігації користувача по .json файлу.
+
+## Короткий висновок
+
+Програма дозволяє наочно пройтися по складових об'єктах будь-якого
+.json файлу.
